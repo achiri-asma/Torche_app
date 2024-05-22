@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Torche</string>
+    <string name="channel_name">Nom du canal</string>
+    <string name="channel_description">Description du canal de notification</string>
+    <string name="notification_title">Titre de la notification</string>
+    <string name="notification_text">Texte de la notification</string>
+</resources>
